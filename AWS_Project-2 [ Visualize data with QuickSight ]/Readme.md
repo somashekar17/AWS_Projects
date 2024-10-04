@@ -1,4 +1,4 @@
-#⚡️This README provides a step-by-step guide to using Amazon QuickSight to visualize your data.
+# ⚡️This README provides a step-by-step guide to using Amazon QuickSight to visualize your data.
  
 # Steps
 
