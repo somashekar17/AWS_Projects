@@ -49,7 +49,11 @@ Before you begin, ensure you have the following:
 - Paste it into your web browser to access your website.
  ![4](https://github.com/user-attachments/assets/58106bac-9b00-4571-b083-fc1d2afc7664)
 
+
+
 - If you encounter an error, navigate to the "Object" section, select the index.html file, and click "Actions." Choose "Make public ACL" to grant public access to the file. This should resolve the issue.
+
+
 
 
 ![5](https://github.com/user-attachments/assets/980870bb-5b66-4c0c-9e68-30f2c5edc2bf)
