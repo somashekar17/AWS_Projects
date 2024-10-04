@@ -10,9 +10,9 @@ Website files: Your website's HTML, CSS, JavaScript, and image files.
 
 ## Create an S3 Bucket:
 
--Log in to your AWS Management Console.
--Navigate to the S3 service.
--Click "Create bucket."
+-Log in to your AWS Management Console. 
+-Navigate to the S3 service.  
+-Click "Create bucket." 
 -Choose a unique bucket name and select the desired region.
 -Configure properties as needed (e.g., versioning, encryption).
 -Click "Create bucket."
