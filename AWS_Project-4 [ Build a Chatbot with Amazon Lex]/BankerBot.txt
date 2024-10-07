@@ -1,0 +1,13 @@
+Bot Name:  BankerBot
+Description: Banker Bot to help customer check their balance and make transfers.
+IAM Permission: COPPA-No
+Idle Timeout: 5 Min.
+
+Intent Name: WelcomeIntent
+Description: Welcoming a user when they say hello.
+Trigger Intent: 1. Hi, 2. Hello 3. I need help, 4. Can you help me?
+Closing Message: Hi! I'm BB, the Banking Bot. How can I help you today?
+
+FallbackIntent 
+Closing Message : Sorry I am having trouble understanding. Can you describe what you'd like to do in a few words? I can help you find your account balance, transfer funds and make a payment.
+Variations : Hmm could you try rephrasing that? I can help you find your account balance, transfer funds and make a payment.
