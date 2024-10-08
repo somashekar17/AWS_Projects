@@ -52,7 +52,7 @@
 
 
 
-### 7. Test your user's access
+### 4. Test your user's access
 - **Copy Sign-in URL**: Copy the Console sign-in URL and open it in an incognito window.
 - **Log In**: Use the username and console password from your IAM tab to log in. As a new user, you may see "Access Denied" on some dashboard panels.
 - **Check Region and Stop Instance**: Ensure you are in the same region as your deployed production and development instances, then attempt to stop the production EC2 instance.
